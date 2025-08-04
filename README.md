@@ -32,13 +32,17 @@ biblioteca_crud/
 
 ---
 
-🧠 Aprendizados
+## 🧠 Aprendizados
+
 Neste projeto você irá treinar:
 
-Estrutura de dados em Python (listas e dicionários)
+- Estrutura de dados em Python (listas e dicionários)  
+- Funções e modularização do código  
+- Persistência de dados com arquivos `.json`  
+- Lógica de menus e entrada do usuário  
 
-Funções e modularização do código
+---
 
-Persistência de dados com arquivos .json
+## 👩‍💻 Autora
 
-Lógica de menus e entrada do usuário
+Feito com 💙 por Andrea Cruz
